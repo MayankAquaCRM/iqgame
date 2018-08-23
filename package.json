@@ -1,0 +1,22 @@
+{
+  "name": "iqgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayankAquaCRM/iqgame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayankAquaCRM/iqgame/issues"
+  },
+  "homepage": "https://github.com/MayankAquaCRM/iqgame#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
